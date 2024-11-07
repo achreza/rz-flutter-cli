@@ -9,9 +9,9 @@ CLI Tool ini dapat digunakan untuk mengelola proyek Dart/Flutter dengan perintah
 Gunakan perintah berikut untuk menjalankan CLI dari GitHub
 
 Install Package Wajib :
-```bash
+``bash
 dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/cli.dart install
 
 Generate Utility Helper :
-```bash
+``bash
 dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/cli.dart generate
