@@ -10,9 +10,9 @@ Gunakan perintah berikut untuk menjalankan CLI dari GitHub
 
 Install Package Wajib :
 ```bash
-dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/cli.dart install
+dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/rz_utils.dart install
 ```
 Generate Utility Helper :
 ```bash
-dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/cli.dart generate
+dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/rz_utils.dart generate
 ```
