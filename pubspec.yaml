@@ -1,7 +1,8 @@
 name: rz_utils
 description: A CLI tool for automating Flutter app setup and file generation made by reza.
-version: 1.0.0
+version: 1.0.1
 repository: https://github.com/achreza/rz-flutter-cli
+homepage: https://github.com/achreza/rz-flutter-cli
 
 environment:
   sdk: ^3.4.3
