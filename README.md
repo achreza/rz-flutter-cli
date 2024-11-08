@@ -1,18 +1,21 @@
 # RZ_UTILS CLI Tool
 
-CLI Tool ini dapat digunakan untuk mengelola proyek Dart/Flutter dengan perintah-perintah khusus.
+This CLI Tool can be used to manage Dart/Flutter projects with specific commands.
 
-## Cara Penggunaan
+## Usage Instructions
 
-### Jalankan Langsung dari Repository GitHub
+### Run Directly from GitHub Repository
 
-Gunakan perintah berikut untuk menjalankan CLI dari GitHub
+Use the following command to run the CLI from GitHub.
 
-Install Package Wajib :
+Install Required Packages:
+
 ```bash
 dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/rz_utils.dart install
 ```
-Generate Utility Helper :
+
+Generate Utility Helper:
+
 ```bash
 dart run https://raw.githubusercontent.com/achreza/rz-flutter-cli/main/bin/rz_utils.dart generate
 ```
