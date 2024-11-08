@@ -1,13 +1,13 @@
 name: rz_utils
-description: A sample command-line application.
+description: A CLI tool for automating Flutter app setup and file generation made by reza.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
 
 environment:
   sdk: ^3.4.3
 
 # Add regular dependencies here.
 dependencies:
+  args: ^2.3.0
   path: ^1.8.0
   process_run: ^0.12.0
 
